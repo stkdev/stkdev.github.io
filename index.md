@@ -53,5 +53,5 @@
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/giE3WCrkAv9r1B" width="495" height="335" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/takosumipasta/lt-meetup" title="[LT資料] 異常検知技術を転用して目指す錬金術 [錬金術MeetUp]" target="_blank">[LT資料] 異常検知技術を転用して目指す錬金術 [錬金術MeetUp]</a> </strong> from <strong><a href="https://www.slideshare.net/takosumipasta" target="_blank">takosumipasta</a></strong> </div>
 
 ## 開発
-つけものリニューアル中？
+自作サイト「つけもの（仮称）」のリニューアル中？
 
