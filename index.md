@@ -39,7 +39,7 @@
 |Twitter|[@stkdev](https://twitter.com/stkdev)|更新情報を中心につぶやいているツイッター|
 |Qiita|[@stkdev](http://qiita.com/stkdev)|プログラム系のまとまった情報はこちらに投稿|
 |HatenaBlog|[@stkdev](http://stkdev.hatenablog.com/)|チラシの裏。ITネタ,開発記録,雑談,ポエムなどを自由に書くところ|
-|note|-|準備中。分析系の話を書きたいつもり|
+|note|[stkdev](https://note.mu/stkdev)|分析系の話を書きたいつもり|
 |GitHub|[@stkdev](https://github.com/stkdev)  [@stkdev(Gist)](https://gist.github.com/stkdev)||
 |SlideShare|[takosumipasta](https://www.slideshare.net/takosumipasta)|勉強会などのために作ったスライドはこちらに公開|
 |Kaggle|[stkdev](https://www.kaggle.com/takosumipasta)|（活動前）|
