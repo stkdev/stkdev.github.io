@@ -44,7 +44,7 @@
 |SlideShare|[takosumipasta](https://www.slideshare.net/takosumipasta)|勉強会などのために作ったスライドはこちらに公開|
 |Kaggle|[stkdev](https://www.kaggle.com/takosumipasta)|（活動前）|
 |SIGNATE|[tako](https://signate.jp/users/519/history)|日本版分析コンペサイト|
-|AtCoder|[stkdev](https://atcoder.jp/users/stkdev)|（活動前）|
+|AtCoder|[stkdev](https://atcoder.jp/users/stkdev)|競技プログラミング|
 |読書メーター|[stkdev](https://bookmeter.com/users/969505)|積読リスト|
 
 
